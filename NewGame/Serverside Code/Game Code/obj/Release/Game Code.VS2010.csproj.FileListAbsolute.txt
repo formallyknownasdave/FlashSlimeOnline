@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\bin\Release\newGame.dll
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\bin\Release\newGame.pdb
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.dll
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.xml
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\obj\Release\Game Code.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\obj\Release\newGame.dll
+C:\Users\David\Desktop\player.io\Flash\NewGame\Serverside Code\Game Code\obj\Release\newGame.pdb
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\bin\Release\newGame.dll
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\bin\Release\newGame.pdb
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.dll
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.xml
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\obj\Release\Game Code.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\obj\Release\newGame.dll
+C:\Users\David\Desktop\SlimeOnline\NewGame\Serverside Code\Game Code\obj\Release\newGame.pdb
